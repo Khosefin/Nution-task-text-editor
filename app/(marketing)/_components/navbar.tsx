@@ -7,7 +7,6 @@ import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import Logo from "./logo";
 import { ModeToggle } from "@/components/mode-toggle";
-import { Goal } from "lucide-react";
 import { Spinner } from "@/components/spinner";
 import Link from "next/link";
 
